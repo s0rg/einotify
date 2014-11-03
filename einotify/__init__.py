@@ -1,5 +1,5 @@
 #-*- coding: utf8 -*-
-import os.path import join as path_join
+from os.path import join as path_join
 from inspect import getmembers
 
 
